@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "C:/Users/Yumi 24F0B-460/2D+3D Infinite Runner Engine/Packages",
+    "projectPath": "C:/Users/Kinlaw/Documents/Unity Projects/NeonRush/Packages",
     "unityVersion": "6000.1.3f1"
   },
   "inputs": [
-    "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Packages\\manifest.json",
-    "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Packages\\packages-lock.json",
+    "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Packages\\manifest.json",
+    "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.1.3f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
       "displayName": "2D Sprite",
-      "resolvedPath": "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Library\\PackageCache\\com.unity.2d.sprite@8e227b7a8e02",
+      "resolvedPath": "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Library\\PackageCache\\com.unity.2d.sprite@8e227b7a8e02",
       "fingerprint": "8e227b7a8e02901a84d9678f982e6ae0efa3f5bb",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -22,7 +22,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
     "com.unity.postprocessing@3.4.0": {
       "name": "com.unity.postprocessing",
       "displayName": "Post Processing",
-      "resolvedPath": "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Library\\PackageCache\\com.unity.postprocessing@026b2a0827a4",
+      "resolvedPath": "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Library\\PackageCache\\com.unity.postprocessing@026b2a0827a4",
       "fingerprint": "026b2a0827a438e3079df62a60ca03d54961393d",
       "editorCompatibility": "2019.4.19f1",
       "version": "3.4.0",
@@ -42,7 +42,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "C:\\Users\\Yumi 24F0B-460\\2D+3D Infinite Runner Engine\\Library\\PackageCache\\com.unity.ugui@5c9fd4989cdd",
+      "resolvedPath": "C:\\Users\\Kinlaw\\Documents\\Unity Projects\\NeonRush\\Library\\PackageCache\\com.unity.ugui@5c9fd4989cdd",
       "fingerprint": "5c9fd4989cdd8e57279d95edb174435a77f5c853",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",

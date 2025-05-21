@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Yumi 24F0B-460/2D+3D Infinite Runner Engine/Packages/manifest.json
+    m_FilePath: C:/Users/Kinlaw/Documents/Unity Projects/NeonRush/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638833755825423994
-    m_Hash: 2062687742
+      ticks: 638833769382085961
+    m_Hash: 3271805358
   m_LockFileStatus:
-    m_FilePath: C:/Users/Yumi 24F0B-460/2D+3D Infinite Runner Engine/Packages/packages-lock.json
+    m_FilePath: C:/Users/Kinlaw/Documents/Unity Projects/NeonRush/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638833756194361897
-    m_Hash: 3185238771
+      ticks: 638833769382091007
+    m_Hash: 2352908901
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Yumi 24F0B-460/2D+3D Infinite Runner Engine/Packages
+m_ProjectPath: C:/Users/Kinlaw/Documents/Unity Projects/NeonRush/Packages
 m_EditorVersion: 6000.1.3f1 (f34db9734971)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yumi 24F0B-460\2D+3D Infinite Runner Engine\Library\PackageCache\com.unity.2d.sprite@8e227b7a8e02
+  resolvedPath: C:\Users\Kinlaw\Documents\Unity Projects\NeonRush\Library\PackageCache\com.unity.2d.sprite@8e227b7a8e02
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -97,7 +97,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yumi 24F0B-460\2D+3D Infinite Runner Engine\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\Kinlaw\Documents\Unity Projects\NeonRush\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -187,7 +187,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.4.0
   source: 1
-  resolvedPath: C:\Users\Yumi 24F0B-460\2D+3D Infinite Runner Engine\Library\PackageCache\com.unity.postprocessing@026b2a0827a4
+  resolvedPath: C:\Users\Kinlaw\Documents\Unity Projects\NeonRush\Library\PackageCache\com.unity.postprocessing@026b2a0827a4
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -196,7 +196,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: The post-processing stack (v2) comes with a collection of effects
     and image filters you can apply to your cameras to improve the visuals of your
     games.
@@ -262,7 +262,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 1
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638384897060000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
@@ -301,7 +301,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\Yumi 24F0B-460\2D+3D Infinite Runner Engine\Library\PackageCache\com.unity.ugui@5c9fd4989cdd
+  resolvedPath: C:\Users\Kinlaw\Documents\Unity Projects\NeonRush\Library\PackageCache\com.unity.ugui@5c9fd4989cdd
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
