@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/InfiniteRunnerEngine/Common/Scenes/LevelSelection.unity
+- path: Assets/InfiniteRunnerEngine/Common/Scenes/StartScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
